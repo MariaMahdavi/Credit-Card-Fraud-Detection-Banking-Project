@@ -3,7 +3,8 @@
 # 💳 Credit Card Fraud Detection  
 ### Machine Learning–Based Fraud Detection System  
 ### Course Project – Modern Banking
-
+####click on this link to see our model:
+https://card-fraud-detection-banking-project.streamlit.app/
 </div>
 
 ---
